@@ -5,25 +5,27 @@ but also share & comment on each other work. <br><strong>IDE: Pycharm, Django- 1
 
 <h3>How to run the application</h3><br>
 
-Download the zip file -> extract it
+*  Download the zip file -> extract it
 
-then inside My-Personal-Blog-master there is a lib.zip file 
+*  then inside My-Personal-Blog-master there is a lib.zip file 
 
-right click on it and extract there only
+*  right click on it and extract there only
 
-Now go to "src" folder inside "My-Personal-Blog-master"
+*  Now go to "src" folder inside "My-Personal-Blog-master"
 
-Right click and open terminal
+*  Right click and open terminal
 
-type python manage.py runserver
+*  type python manage.py runserver
 
-then go to your browser and type http://127.0.0.1:8000/posts/
+*  then go to your browser and type http://127.0.0.1:8000/posts/
 
 <h3>Following are the screenshot</h3>
 
-
+**Screenshot 1**
 <br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_001.png"><br>
+**Screenshot 2**
 <br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_002.png"><br>
+**Screenshot 3**
 <br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_003.png"><br>
 
 
