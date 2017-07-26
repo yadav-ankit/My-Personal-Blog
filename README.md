@@ -1,4 +1,9 @@
-# My-Personal-Blog
+## My-Personal-Blog
+
+This is a sample Blogging website which enables the user to not only post blog
+but also share & comment on each other work. <br><strong>IDE: Pycharm, Django- 1.10.6. </strong>
+
+<h3>How to run the application</h3><br>
 
 Download the zip file -> extract it
 
@@ -14,5 +19,11 @@ type python manage.py runserver
 
 then go to your browser and type http://127.0.0.1:8000/posts/
 
+<h3>Following are the screenshot</h3>
+
+
+<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_001.png"><br>
+<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_002.png"><br>
+<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_003.png"><br>
 
 
