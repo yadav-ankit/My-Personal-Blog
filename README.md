@@ -22,10 +22,8 @@ but also share & comment on each other work. <br><strong>IDE: Pycharm, Django- 1
 <h3>Following are the screenshot</h3>
 
 **Screenshot 1**
-<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_001.png"><br>
-**Screenshot 2**
-<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_002.png"><br>
-**Screenshot 3**
-<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_003.png"><br>
-
-
+<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_001.png" style=" border-right: #999999 10px outset; border-bottom: #999999 4px outset; border-left: #000000 4px outset; border-top: #000000 4px outset;"><br><br>
+**Screenshot 2**<br>
+<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_002.png" style=" border-right: #999999 10px outset; border-bottom: #999999 4px outset; border-left: #000000 4px outset; border-top: #000000 4px outset;"><br><br>
+**Screenshot 3**<br>
+<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_003.png" style=" border-right: #999999 10px outset; border-bottom: #999999 4px outset; border-left: #000000 4px outset; border-top: #000000 4px outset;"><br>
