@@ -24,8 +24,8 @@ but also share & comment on each other work. <br><strong>IDE: Pycharm, Django- 1
 **Screenshot 1**
 <br>
 <kbd>
-<img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_001.png" style=" border-right: #999999 10px outset; border-bottom: #999999 4px outset; border-left: #000000 4px outset; border-top: #000000 4px outset;">
-<kbd>
+<img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_001.png">
+</kbd>
 <br><br>
 **Screenshot 2**
 <kbd>
@@ -34,6 +34,6 @@ but also share & comment on each other work. <br><strong>IDE: Pycharm, Django- 1
 <br><br>
 **Screenshot 3**<br>
 <kbd>
-<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_003.png"     
-      style="border: #00008B 4px solid;">
+<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_003.png">     
+      
       </kbd><br>
