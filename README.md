@@ -22,10 +22,18 @@ but also share & comment on each other work. <br><strong>IDE: Pycharm, Django- 1
 <h3>Following are the screenshot</h3>
 
 **Screenshot 1**
-<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_001.png" style=" border-right: #999999 10px outset; border-bottom: #999999 4px outset; border-left: #000000 4px outset; border-top: #000000 4px outset;"><br><br>
+<br>
+<kbd>
+<img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_001.png" style=" border-right: #999999 10px outset; border-bottom: #999999 4px outset; border-left: #000000 4px outset; border-top: #000000 4px outset;">
+<kbd>
+<br><br>
 **Screenshot 2**<br>
-<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_002.png" style=" border-right: #999999 10px outset; border-bottom: #999999 4px outset; border-left: #000000 4px outset; border-top: #000000 4px outset;"><br><br>
+<kbd>
+<br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_002.png" style=" border-right: #999999 10px outset; border-bottom: #999999 4px outset; border-left: #000000 4px outset; border-top: #000000 4px outset;">
+</kbd>
+<br><br>
 **Screenshot 3**<br>
 <kbd>
 <br><img src ="https://github.com/yadav-ankit/Projects/blob/master/Projects_Screenshots/Django-Blog/Selection_003.png"     
-      style="border: #00008B 4px solid;"></kbd><br>
+      style="border: #00008B 4px solid;">
+      </kbd><br>
